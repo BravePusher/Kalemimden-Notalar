@@ -1,5 +1,6 @@
 {
   "name": "Kalemimden Notalar",
   "description": "Efdal ve arkadaşlarının şiirlerini paylaştığı modern bir şiir bloğu.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

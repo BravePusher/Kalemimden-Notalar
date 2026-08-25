@@ -4,6 +4,8 @@ export interface Poem {
   content: string[];
   poet: string;
   category: string;
+  createdAt?: number;
+  orderIndex?: number;
 }
 
 export interface Poet {
